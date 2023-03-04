@@ -100,8 +100,8 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Jame</TestimonialHeading>
               <TestimonialText>
-                It's so easy to get started with Contentify! I instantly could
-                tell the results after the first month and it's been reliable.
+                It&#39;s so easy to get started with Contentify! I instantly could
+                tell the results after the first month and it has been reliable.
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
@@ -131,7 +131,7 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Beyonce</TestimonialHeading>
               <TestimonialText>
-                Contentify has given me so many oppotunities to turn what I love into something I can share and sell in my free time. It's a game changer! 
+                Contentify has given me so many oppotunities to turn what I love into something I can share and sell in my free time. It&#39;s a game changer! 
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
