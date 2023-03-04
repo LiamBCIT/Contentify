@@ -1,6 +1,6 @@
 # Contentify
 
-Contentify is a business landing page that helps helps freelancers sell or barter their services to other students, with the goal of improving their experience and building their portfolios. With Rooty, you can post a listing of something you'd like to help someone with, and browse until you find something suitable for you. Simply send a message through the app to get started.
+Contentify is a landing page web application mockup business about helping freelancers convert articles, videos and other forms of content into cash.
 
 ## Tech Stack
 Next.js
