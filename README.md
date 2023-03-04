@@ -1,6 +1,6 @@
 # Contentify
 
-Contentify is a landing page web application mockup business about helping freelancers convert articles, videos and other forms of content into cash.
+Contentify is a landing page web application mockup business about helping freelancers convert articles, videos and other forms of content into cash by charging their fans for sneak peaks, early access and other perks.
 
 ## Tech Stack
 Next.js
