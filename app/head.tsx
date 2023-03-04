@@ -8,14 +8,3 @@ export default function Head() {
     </>
   )
 }
-
-module.exports = {
-  settings: { 
-    next: {
-      rootDir: "/packages/contentify/app/page",
-    },
-  },
-  rules: { 
-    "@next/next/no-html-link-for-pages": "error",
-  },
-};
