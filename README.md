@@ -4,10 +4,12 @@ Contentify is a business landing page that helps helps freelancers sell or barte
 
 ## Tech Stack
 Next.js
+
 React
+
 Typescript
+
 Chakra UI
-Framer Motion
 
 ## Getting started
 
